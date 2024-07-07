@@ -132,4 +132,40 @@ button {
 }
 /* Call to Action */
 
+.call-to-action {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 90px 200px;
+}
+.call-to-action .content {
+  background-color: #3882F6;
+  border-radius: 12px;
+  padding: 48px 100px;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.call-to-action button {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border: 2px solid #F9FAF8;
+}
+
+.call-to-action .button {
+  align-self: center;
+}
+
 /* Footer */
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+}
+.footer p{
+  color: #E5E7EB;
+}
