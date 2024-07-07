@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  width:300px;
+  height: auto;
+}
+
+/* Header */
+ul {
+  list-style: none;
+}
+
+li {
+  text-decoration: none;
+}
+
+/* Hero */
+
+/* Information */
+
+/* Quote */
+
+/* Call to Action */
+
+/* Footer */
